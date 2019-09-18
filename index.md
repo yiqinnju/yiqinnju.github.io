@@ -1,8 +1,6 @@
 <html>
 
-	<title>Welcome to Yi Qin's homepage</title>
-	<meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
-
+	
 	<body style="line-height:150%">
 		<table id="x" style="line-height:150%">
 			<tr>
@@ -23,14 +21,15 @@
 					</ul>
 					<p><font size="4" face="Georgia">E-mail: <img height="20" src="email.jpg"/></font></p>
 				</td>
+
 			</tr>
 		</table>
 
 		<p id="n"><font size="5" face="Georgia"><b>News</b></font></p>
 		<ul>
-			<li><font size="4" face="Georgia"> Congratulations on Zhengchuan Liang's Internetware'19 paper "Generating Environmental Models for Testing Self-adaptive Systems"!</font></li>
-			<li><font size="4" face="Georgia"> "面向环境非确定性的CPS测试技术研究" accepted by 中国科学-信息科学!</font></li>
-			<li><font size="4" face="Georgia">CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software" accepted by IEEE Transactions on Reliability!</font></li>
+			<li><img src="new.gif"/><font size="4" face="Georgia"> Congratulations on Zhengchuan Liang's Internetware'19 paper "Generating Environmental Models for Testing Self-adaptive Systems"!</font></li>
+			<li><img src="new.gif"/><font size="4" face="Georgia"> "面向环境非确定性的CPS测试技术研究" accepted by 中国科学-信息科学!</font></li>
+			<li><img src="new.gif"/><font size="4" face="Georgia"> "CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software" accepted by IEEE Transactions on Reliability!</font></li>
 		</ul>
 		<hr/>
 
@@ -46,13 +45,11 @@
 		<p id="r"><font size="5" face="Georgia"><b>Research Interests</b></font></p>
 		<p><font size="4" face="Georgia">My research mainly concern about building high-quality self-adaptive systems (robots, self-driving cars, Unmanned Aerial Vehicle, etc.). You may hear about the tragic accidents of <a href="https://reports.aviation-safety.net/2018/20181029-0_B38M_PK-LQP_PRELIMINARY.pdf">Lion Air Flight 610</a> and <a href="https://aviation-safety.net/database/record.php?id=20190310-0">Ethiopian Airlines Flight 302</a>. Software defect in the autopilot system of Boeing 737 MAX is the major root cause of these two accidents. Our work is to expose such software defects (techniques and tools for testing self-adaptive systems) and to help developers avoid such defects (methodology for developing self-adaptive systems). You are welcome to talk to me if you have common interests.</font></p>
 		<ul>
-			<li><font size="4" face="Georgia">Associated research groups: <a href="http://moon.nju.edu.cn/spar/">SPAR</a></li>
+			<li><font size="4" face="Georgia">Associated research groups: <a href="http://moon.nju.edu.cn/spar/">SPAR</a></font></li>
 		</ul>
 		<hr/>
 		
-		
-		
-		<p id="r"><font size="5" face="Georgia"><b>Publications</b></font></p>
+		<p id="p"><font size="5" face="Georgia"><b>Publications</b></font></p>
 			<li><font size="4" face="Georgia"></font><b>秦逸</b>，许畅，陈紫琦，吕建，面向环境非确定性的CPS测试技术研究, 中国科学-信息科学，Accepted, 2019.[<a href="publications/CS19.pdf">CS19</a>]</li>
 			<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Tao Xie, Chang Xu, Angello Astorga and Jian Lu. CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software, in <i>IEEE Transactions on Reliability</i>, Accepted, 2019. [<a href="publications/TR19.pdf">TR19</a>]</li>
 			<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Xianping Tao, Yu Huang and Jian Lu. An index structure supporting rule activation in pervasive applications, in <i>World Wide Web Journal</i>, 22(1): 1-37, 2019.[<a href="publications/WWWJ19.pdf">WWWJ19</a>]</li>
@@ -77,7 +74,7 @@
 
 		<p id="t"><font size="5" face="Georgia"><b>Teaching Duties</b></font></p>
 		<ul>
-			<li><font size="4" face="Georgia">2019 (Fall) Lecturer: <a href="disMath.html">离散数学</a>(for NJU continouing education school)</font></li>
+			<li><font size="4" face="Georgia">2019 (Fall) Lecturer: <a href="course/disMath/disMath.html">离散数学</a>(for NJU continouing education school)</font></li>
 		</ul>
 		<hr/>
 
@@ -87,7 +84,7 @@
 		
 		<p><font size="4" face="Georgia">Anime talks about lots of things. It also echos the science of computer software. In a famous anime Neon Genesis Evangelion, a super-computer system called "Magi" helps human beings defend against alien attacks. Magi is designed to have three individual super-computers for fault-tolerance purpose. When one computer is controlled by enemy, it seems that <i>the remained two computers can still enable the whole system to make right decisions</i> (most people might think this is apparently correct, including myself when I first watched this anime). Unfortunately, a computer scientist Leslie Lamport told us in his famous <a href="https://en.wikipedia.org/wiki/Byzantine_fault">Byzantine Generals Problem</a> that, for a distributed system consists of <i>n</i> nodes, if the number of failure nodes is <i>t</i> and n = 3t, then we cannot guarantee that the system makes right decisions. In other words, if Lamport controlled one of Magi's supercomputers, then story of Neon Genesis Evangelion would end in its every first episode (/= _ =)/~┴┴ ! </font></p>
 		
-		<p><font size="4" face="Georgia">Anime could also inspire our research in self-adaptive systems.  Can we avoid our robot falling down like <a href="sources/eva.mp4"">this</a>？And can we make smart robots move like <a href="sources/tachikoma.mp4">this</a>, Unmanned Aerial(or "Space" ^o^) Vehicles fly like <a href="sources/funnel.mp4">this</a>, or deadly missiles fire like <a href="sources/circus.mp4">this</a>?</font></p>
+		<p><font size="4" face="Georgia">Anime could also inspire our research in self-adaptive systems.  Can we avoid our robot falling down like <a href="sources/eva.mp4"">this</a> or <a href="robot2.gif">this</a>？And can we make smart robots move like <a href="sources/tachikoma.mp4">this</a>, Unmanned Aerial(or "Space" ^o^) Vehicles fly like <a href="sources/funnel.mp4">this</a>, or deadly missiles fire like <a href="sources/circus.mp4">this</a>?</font></p>
 
 		<hr/>
 
@@ -110,3 +107,7 @@ src="http://c.statcounter.com/6371420/0/2921ddaf/1/"
 alt="tumblr statistics"></a></div></noscript>
 
 		<!-- End of StatCounter Code for Default Guide -->
+
+	</body>
+
+</html>
