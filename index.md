@@ -1,5 +1,6 @@
 <html>
-
+    
+    <title>Welcome to Yi Qin's peronsal page</title>
 	
 	<body style="line-height:150%">
 		<table id="x" style="line-height:150%">
