@@ -74,7 +74,7 @@
 
 		<p id="t"><font size="5" face="Georgia"><b>Teaching Duties</b></font></p>
 		<ul>
-			<li><font size="4" face="Georgia">2019 (Fall) Lecturer: <a href="course/disMath/disMath.html">离散数学</a>(for NJU continouing education school)</font></li>
+			<li><font size="4" face="Georgia">2019 (Fall) Lecturer: <a href="disMath.html">离散数学</a>(for NJU continouing education school)</font></li>
 		</ul>
 		<hr/>
 
