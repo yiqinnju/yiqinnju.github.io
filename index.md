@@ -25,8 +25,6 @@
 					</ul>
 					<p><font size="4" face="Georgia">E-mail: <img height="20" src="email.jpg"/></font></p>
 				</td>
-				<td> <img height="20" src="email.jpg"/></td>
-
 			</tr>
 		</table>
 
