@@ -49,6 +49,7 @@
 		<p><font size="4" face="Georgia">My research mainly concern about building high-quality self-adaptive systems (robots, self-driving cars, Unmanned Aerial Vehicle, etc.). You may hear about the tragic accidents of <a href="https://reports.aviation-safety.net/2018/20181029-0_B38M_PK-LQP_PRELIMINARY.pdf">Lion Air Flight 610</a> and <a href="https://aviation-safety.net/database/record.php?id=20190310-0">Ethiopian Airlines Flight 302</a>. Software defect in the autopilot system of Boeing 737 MAX is the major root cause of these two accidents. Our work is to expose such software defects (techniques and tools for testing self-adaptive systems) and to help developers avoid such defects (methodology for developing self-adaptive systems). You are welcome to talk to me if you have common interests.</font></p>
 		<ul>
 			<li><font size="4" face="Georgia">Associated research groups: <a href="http://moon.nju.edu.cn/spar/">SPAR</a> 
+		</ul>
 		<hr/>
 		
 		
