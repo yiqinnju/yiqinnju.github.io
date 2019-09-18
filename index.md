@@ -32,7 +32,7 @@
 		<ul>
 			<li><img src="new.gif"/><font size="4" face="Georgia"> Congratulations on Zhengchuan Liang's Internetware'19 paper "Generating Environmental Models for Testing Self-adaptive Systems"!</font></li>
 			<li><img src="new.gif"/><font size="4" face="Georgia"> "面向环境非确定性的CPS测试技术研究" accepted by 中国科学-信息科学!</font></li>
-			<li><img src="new.gif"/><font size="4" face="Georgia"> "CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software" accepted by IEEE Transactions on Reliability!</font></li>
+			<li><font size="4" face="Georgia"><img src="new.gif"/>"CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software" accepted by IEEE Transactions on Reliability!</font></li>
 		</ul>
 		<hr/>
 
