@@ -90,7 +90,7 @@
 		<hr/>
 
 		<p><font size="4" face="Georgia">[<a href="#x">Back to Top</a>]</font></p>
-		<p><font size="4" face="Georgia">The homepage was last updated on <font color="#ff0000">Sep 11, 2019</font>.</font></p>
+		<p><font size="4" face="Georgia">The homepage was last updated on <font color="#ff0000">Sep 18, 2019</font>.</font></p>
 
 		<!-- Start of StatCounter Code for Default Guide -->
 		<script type="text/javascript">
