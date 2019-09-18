@@ -1,9 +1,7 @@
 <html>
 
-	<head>
-		<title>Welcome to Yi Qin's homepage</title>
-		<meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
-	</head>
+	<title>Welcome to Yi Qin's homepage</title>
+	<meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
 
 	<body style="line-height:150%">
 		<table id="x" style="line-height:150%">
