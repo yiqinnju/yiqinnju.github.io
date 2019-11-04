@@ -51,7 +51,7 @@
 		<hr/>
 		
 		<p id="p"><font size="5" face="Georgia"><b>Publications</b></font></p>
-			<li><font size="4" face="Georgia"></font><b>秦逸</b>，许畅，陈紫琦，吕建，面向环境非确定性的CPS测试技术研究, 中国科学-信息科学，Accepted, 2019.[<a href="publications/CS19.pdf">CS19</a>]</li>
+			<li><font size="4" face="Georgia"></font><b>秦逸</b>，许畅，陈紫琦，吕建，面向环境非确定性的CPS测试技术研究, 中国科学-信息科学，Accepted, 2019.[<a href="publications/CS19.pdf">中国科学19</a>]</li>
 			<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Tao Xie, Chang Xu, Angello Astorga and Jian Lu. CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software, in <i>IEEE Transactions on Reliability</i>, Accepted, 2019. [<a href="publications/TR19.pdf">TR19</a>]</li>
 			<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Xianping Tao, Yu Huang and Jian Lu. An index structure supporting rule activation in pervasive applications, in <i>World Wide Web Journal</i>, 22(1): 1-37, 2019.[<a href="publications/WWWJ19.pdf">WWWJ19</a>]</li>
 			<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Huiyan Wang, Chang Xu, Xiaoxing Ma and Jian Lu. SynEva: Evaluating ML programs by mirror program synthesis, in <i>Proceedings of IEEE 18th International Conference on Software Quality, Reliability, and Security (QRS 2018)</i>, pages 171-182, 2018, Lisbon, Protugal.[<a href="publications/QRS18.pdf">QRS18</a>]</li>
