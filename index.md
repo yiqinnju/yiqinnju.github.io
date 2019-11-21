@@ -76,6 +76,7 @@
 		<p id="t"><font size="5" face="Georgia"><b>Teaching Duties</b></font></p>
 		<ul>
 			<li><font size="4" face="Georgia">2019 (Fall) Lecturer: <a href="https://yiqinnju.github.io/disMath.html">离散数学</a>(for NJU continouing education school)</font></li>
+			<li><font size="4" face="Georgia">2020 (Spring) Lecturer: <a href="https://yiqinnju.github.io/MathLogic.html">数理逻辑</a></font></li>
 		</ul>
 		<hr/>
 
@@ -90,7 +91,7 @@
 		<hr/>
 
 		<p><font size="4" face="Georgia">[<a href="#x">Back to Top</a>]</font></p>
-		<p><font size="4" face="Georgia">The homepage was last updated on <font color="#ff0000">Sep 30, 2019</font>.</font></p>
+		<p><font size="4" face="Georgia">The homepage was last updated on <font color="#ff0000">Nov 11, 2019</font>.</font></p>
 
 		<!-- Start of StatCounter Code for Default Guide -->
 		<script type="text/javascript">
