@@ -82,6 +82,7 @@
 
 		<p id="t"><font size="5" face="Georgia"><b>Teaching Duties</b></font></p>
 		<ul>
+			<li><font size="4" face="Georgia">2020 (Spring) Lecturer: <a href="course/MathLogic/MathLogic.html">数理逻辑</a>(for NJU department of compuerter science and technology)</font></li>
 			<li><font size="4" face="Georgia">2019 (Fall) Lecturer: <a href="course/disMath/disMath.html">离散数学</a>(for NJU continouing education school)</font></li>
 		</ul>
 		<hr/>
