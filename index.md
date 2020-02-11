@@ -82,7 +82,7 @@
 		<hr/>
 
 		<p id="h"><font size="5" face="Georgia"><b>Hobbies</b></font></p>
-		<p><font size="4" face="Georgia">I love watching anime (US: /ˈænəˌmeɪ/, UK: /ˈænɪˌmeɪ/, the Japanese term for animation, which means all forms of animated media), playing video games and reading all-kinds of books. 
+		<p><font size="4" face="Georgia">I love watching anime (US: /ˈænəˌmeɪ/, UK: /ˈænɪˌmeɪ/, the Japanese term for animation, which means all forms of animated media, check my MAL profile <a href="https://myanimelist.net/profile/TOKIKZAE">here</a>), playing video games and reading all-kinds of books. 
 		</font></p>
 		
 		<p><font size="4" face="Georgia">Anime talks about lots of things. It also echos the science of computer software. In a famous anime Neon Genesis Evangelion, a super-computer system called "Magi" helps human beings defend against alien attacks. Magi is designed to have three individual super-computers for fault-tolerance purpose. When one computer is controlled by its enemy, it seems that <i>the remained two computers can still enable the whole system to make right decisions</i> (most people might think this is apparently correct, including myself when I first watched this anime). Unfortunately, a computer scientist Leslie Lamport told us in his famous <a href="https://en.wikipedia.org/wiki/Byzantine_fault">Byzantine Generals Problem</a> that, for a distributed system consists of <i>n</i> nodes, if the number of failure nodes is <i>t</i> and n = 3t, then we cannot guarantee that the system makes right decisions. In other words, if Lamport controlled one of Magi's supercomputers, then story of Neon Genesis Evangelion would end in its every first episode (/= _ =)/~┴┴ ! </font></p>
