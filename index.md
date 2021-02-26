@@ -28,9 +28,11 @@
 
 		<p id="n"><font size="5" face="Georgia"><b>News</b></font></p>
 		<ul>
-			<li><img src="new.gif"/><font size="4" face="Georgia"> Congratulations on Zhengchuan Liang's Internetware'19 paper "Generating Environmental Models for Testing Self-adaptive Systems"!</font></li>
-			<li><img src="new.gif"/><font size="4" face="Georgia"> "面向环境非确定性的CPS测试技术研究" accepted by 中国科学-信息科学!</font></li>
-			<li><img src="new.gif"/><font size="4" face="Georgia"> "CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software" accepted by IEEE Transactions on Reliability!</font></li>
+			<li><font size="4" face="Georgia"> Congratulations on Jinchi Chen's Internetware'20 paper " Simulated or Physical? An Empirical Study on Input Validation for Context-aware Systems in Different Environments"!</font></li>
+			<li><img src="new.gif"/><font size="4" face="Georgia"> "可成长软件理论方法和实现技术: 从范型到跨越" accepted by 中国科学-信息科学!</font></li>
+			<li><font size="4" face="Georgia"> Congratulations on Zhengchuan Liang's Internetware'19 paper "Generating Environmental Models for Testing Self-adaptive Systems"!</font></li>
+			<li><font size="4" face="Georgia"> "面向环境非确定性的CPS测试技术研究" accepted by 中国科学-信息科学!</font></li>
+			<li><font size="4" face="Georgia"> "CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software" accepted by IEEE Transactions on Reliability!</font></li>
 		</ul>
 		<hr/>
 
@@ -51,7 +53,8 @@
 		<hr/>
 		
 		<p id="p"><font size="5" face="Georgia"><b>Publications</b></font></p>
-			<li><font size="4" face="Georgia"></font><b>秦逸</b>，许畅，陈紫琦，吕建，面向环境非确定性的CPS测试技术研究, 中国科学-信息科学，Accepted, 2019.[<a href="publications/CS19.pdf">中国科学19</a>]</li>
+			<li><font size="4" face="Georgia"></font>许畅, <b>秦逸</b>, 余萍, 曹春, 吕建. 可成长软件理论方法和实现技术: 从范型到跨越, <i>中国科学: 信息科学</i>，2020, 50(11):1595-1611.></a>]</li>
+			<li><font size="4" face="Georgia"></font><b>秦逸</b>，许畅，陈紫琦，吕建. 面向环境非确定性的CPS测试技术研究, <i>中国科学:信息科学</i>, 2019, 49(11): 1428-1450.[<a href="publications/CS19.pdf">中国科学19</a>]</li>
 			<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Tao Xie, Chang Xu, Angello Astorga and Jian Lu. CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software, in <i>IEEE Transactions on Reliability</i>, Accepted, 2019. [<a href="publications/TR19.pdf">TR19</a>]</li>
 			<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Xianping Tao, Yu Huang and Jian Lu. An index structure supporting rule activation in pervasive applications, in <i>World Wide Web Journal</i>, 22(1): 1-37, 2019.[<a href="publications/WWWJ19.pdf">WWWJ19</a>]</li>
 			<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Huiyan Wang, Chang Xu, Xiaoxing Ma and Jian Lu. SynEva: Evaluating ML programs by mirror program synthesis, in <i>Proceedings of IEEE 18th International Conference on Software Quality, Reliability, and Security (QRS 2018)</i>, pages 171-182, 2018, Lisbon, Protugal.[<a href="publications/QRS18.pdf">QRS18</a>]</li>
@@ -65,6 +68,7 @@
 		<ul>
 			<li><font size="4" face="Georgia">Present :</font></li>
 			<ul>
+				<li><font size="4" face="Georgia">Xinyi Mao (B.S; with Prof. Xu; Self-adaptive system Testing, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
 				<li><font size="4" face="Georgia">Jinchi Chen (B.S; with Prof. Xu; Self-adaptive system building, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
 				<li><font size="4" face="Georgia">Zhengchuan Liang (B.E; Self-adaptive system testing, working on Unmanned Aerial Vehicle)</font></li>
 			</ul>
@@ -75,8 +79,8 @@
 
 		<p id="t"><font size="5" face="Georgia"><b>Teaching Duties</b></font></p>
 		<ul>
-			<li><font size="4" face="Georgia">2020 (Spring) Lecturer: <a href="/course/MathLogic/MathLogic.html">数理逻辑</a>(for NJU department of computer science and technology)</font></li>
-			<li><font size="4" face="Georgia">2019 (Fall) Lecturer: <a href="https://yiqinnju.github.io/disMath.html">离散数学</a>(for NJU continouing education school)</font></li>
+			<li><font size="4" face="Georgia">2021 (Spring) Lecturer: <a href="/course/MathLogic/MathLogic.html">数理逻辑</a>(for NJU department of computer science and technology)</font></li>
+			<li><font size="4" face="Georgia">2020 (Fall) Lecturer: <a href="https://yiqinnju.github.io/disMath.html">离散数学</a>(for NJU continouing education school)</font></li>
 			
 		</ul>
 		<hr/>
