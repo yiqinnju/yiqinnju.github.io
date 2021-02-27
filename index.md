@@ -68,8 +68,9 @@
 		<ul>
 			<li><font size="4" face="Georgia">Present :</font></li>
 			<ul>
-				<li><font size="4" face="Georgia">Xinyi Mao (B.S; with Prof. Xu; Self-adaptive system Testing, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
-				<li><font size="4" face="Georgia">Jinchi Chen (B.S; with Prof. Xu; Self-adaptive system building, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
+				<li><font size="4" face="Georgia">Yanxiang Tong (Ph. D candicate; with Prof. Xiaoxing Ma; Self-adaptive system Testing, working on control-based self-adaptive software-intensive systems (Control-based SASs))</font></li>
+				<li><font size="4" face="Georgia">Xinyi Mao (B.S; with Prof. Chang Xu; Self-adaptive system Testing, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
+				<li><font size="4" face="Georgia">Jinchi Chen (B.S; with Prof. Chang Xu; Self-adaptive system building, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
 				<li><font size="4" face="Georgia">Zhengchuan Liang (B.E; Self-adaptive system testing, working on Unmanned Aerial Vehicle)</font></li>
 			</ul>
 		</ul>
@@ -96,7 +97,7 @@
 		<hr/>
 
 		<p><font size="4" face="Georgia">[<a href="#x">Back to Top</a>]</font></p>
-		<p><font size="4" face="Georgia">The homepage was last updated on <font color="#ff0000")Feb 26, 2021</font>.</font></p>
+		<p><font size="4" face="Georgia">The homepage was last updated on <font color="#ff0000")Feb 27, 2021</font>.</font></p>
 
 		<!-- Start of StatCounter Code for Default Guide -->
 		<script type="text/javascript">
