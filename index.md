@@ -28,8 +28,11 @@
 
 		<p id="n"><font size="5" face="Georgia"><b>News</b></font></p>
 		<ul>
-			<li><font size="4" face="Georgia"> Congratulations on Jinchi Chen's Internetware'20 paper " Simulated or Physical? An Empirical Study on Input Validation for Context-aware Systems in Different Environments"!</font></li>
-			<li><img src="new.gif"/><font size="4" face="Georgia"> "可成长软件理论方法和实现技术: 从范型到跨越" accepted by 中国科学-信息科学!</font></li>
+			<li><font size="4" face="Georgia"> <img src="new.gif"/> Congratulations on Yanxiang Tong's ESEC/FSE'20 paper "Timely and Accurate Detection of Model Deviation in Self-adaptive Software-intensive Systems"!</font></li>
+			<li><font size="4" face="Georgia"> Congratulations on Jinxin Fan's Internetware'21 paper "Overwhelming Uncertainty in Self-adaptation: An Empirical
+Study on PLA and CobRA"!</font></li>
+			<li><font size="4" face="Georgia"> Congratulations on Jinchi Chen's Internetware'20 paper "Simulated or Physical? An Empirical Study on Input Validation for Context-aware Systems in Different Environments"!</font></li>
+			<li><font size="4" face="Georgia"> "可成长软件理论方法和实现技术: 从范型到跨越" accepted by 中国科学-信息科学!</font></li>
 			<li><font size="4" face="Georgia"> Congratulations on Zhengchuan Liang's Internetware'19 paper "Generating Environmental Models for Testing Self-adaptive Systems"!</font></li>
 			<li><font size="4" face="Georgia"> "面向环境非确定性的CPS测试技术研究" accepted by 中国科学-信息科学!</font></li>
 			<li><font size="4" face="Georgia"> "CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software" accepted by IEEE Transactions on Reliability!</font></li>
@@ -48,18 +51,22 @@
 		<p id="r"><font size="5" face="Georgia"><b>Research Interests</b></font></p>
 		<p><font size="4" face="Georgia">My research mainly concern about building high-quality self-adaptive systems (robots, self-driving cars, Unmanned Aerial Vehicle, etc.). You may hear about the tragic accidents of <a href="https://reports.aviation-safety.net/2018/20181029-0_B38M_PK-LQP_PRELIMINARY.pdf">Lion Air Flight 610</a> and <a href="https://aviation-safety.net/database/record.php?id=20190310-0">Ethiopian Airlines Flight 302</a>. Software defect in the autopilot system of Boeing 737 MAX is the major root cause of these two accidents. Our work is to expose such software defects (techniques and tools for testing self-adaptive systems) and to help developers avoid such defects (methodology for developing self-adaptive systems). You are welcome to talk to me if you have common interests.</font></p>
 		<ul>
-			<li><font size="4" face="Georgia">Associated research groups: <a href="http://moon.nju.edu.cn/spar/">SPAR</a></font></li>
+		<li><font size="4" face="Georgia">Associated research groups: <a href="http://moon.nju.edu.cn/spar/">SPAR</a></font></li>
 		</ul>
 		<hr/>
 		
 		<p id="p"><font size="5" face="Georgia"><b>Publications</b></font></p>
-			<li><font size="4" face="Georgia"></font>许畅, <b>秦逸</b>, 余萍, 曹春, 吕建. 可成长软件理论方法和实现技术: 从范型到跨越, <i>中国科学: 信息科学</i>，2020, 50(11):1595-1611.></a>]</li>
-			<li><font size="4" face="Georgia"></font><b>秦逸</b>，许畅，陈紫琦，吕建. 面向环境非确定性的CPS测试技术研究, <i>中国科学:信息科学</i>, 2019, 49(11): 1428-1450.[<a href="publications/CS19.pdf">中国科学19</a>]</li>
-			<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Tao Xie, Chang Xu, Angello Astorga and Jian Lu. CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software, in <i>IEEE Transactions on Reliability</i>, Accepted, 2019. [<a href="publications/TR19.pdf">TR19</a>]</li>
-			<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Xianping Tao, Yu Huang and Jian Lu. An index structure supporting rule activation in pervasive applications, in <i>World Wide Web Journal</i>, 22(1): 1-37, 2019.[<a href="publications/WWWJ19.pdf">WWWJ19</a>]</li>
-			<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Huiyan Wang, Chang Xu, Xiaoxing Ma and Jian Lu. SynEva: Evaluating ML programs by mirror program synthesis, in <i>Proceedings of IEEE 18th International Conference on Software Quality, Reliability, and Security (QRS 2018)</i>, pages 171-182, 2018, Lisbon, Protugal.[<a href="publications/QRS18.pdf">QRS18</a>]</li>
-			<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Chang Xu, Ping Yu and Jian Lu. SIT: Sampling-based interactive testing for self-adaptive apps, in <i>Journal of Systems and Software</i>, 120: 70-88, 2016. [<a href="publications/JSS16.pdf">JSS16</a>]</li>
-			<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Xianping Tao and Jian Lu. Supporting groupware communication with topology-enhanced content-based network, in <i>Proceedings of 16th Asia-Pacific Network Operations and Management Symposium (APNOMS 2014)</i>, pages 1-6, 2014, Hsinchu, Taiwan, China.[<a href="publications/APNOMS14.pdf">APNOMS14</a>]</li>
+		<<li><font size="4" face="Georgia"></font>Jinxin Fan, Yanxiang Tong, <b>Yi Qin</b>, Xiaoxin Ma. Overwhelming Uncertainty in Self-adaptation: An Empirical
+Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on Internetware (Internetware 2020)</i>, 2021, virtual event.[<a href="publications/Internetware20(1).pdf"Internetware20(1)</a>]</li>
+		<li><font size="4" face="Georgia"></font>Jinchi Chen, <b>Yi Qin</b>, Huiyan Wang, Chang Xu. Simulated or Physical? An Empirical Study on Input Validation for Context-aware Systems in Different Environments, in <i>Proceedings of the 12th Asia-Pacific Symposium on Internetware (Internetware 2020)</i>, 2021, virtual event.[<a href="publications/Internetware20(2).pdf"Internetware20(2)</a>]</li>
+		<li><font size="4" face="Georgia"></font>许畅, <b>秦逸</b>, 余萍, 曹春, 吕建. 可成长软件理论方法和实现技术: 从范型到跨越, <i>中国科学: 信息科学</i>，2020, 50(11):1595-1611.[<a href="publications/CS20.pdf">中国科学20</a>]</li>
+		<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Tao Xie, Chang Xu, Angello Astorga and Jian Lu. CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software, in <i>IEEE Transactions on Reliability</i>, 69(1): 106-123, 2020. [<a href="publications/TR19.pdf">TR20</a>]</li>
+		<li><font size="4" face="Georgia"></font>Zhengchuan Liang, <b>Yi Qin</b>. Generating Environmental Models for Testing Self-adaptive Systems, in <i>Proceedings of the 11th Asia-Pacific Symposium on Internetware (Internetware 2019)</i>, pages 1-6, 2019, Fukuoka, Japan.[<a href="publications/Internetware19.pdf"Internetware19</a>]</li>
+		<li><font size="4" face="Georgia"></font><b>秦逸</b>，许畅，陈紫琦，吕建. 面向环境非确定性的CPS测试技术研究, <i>中国科学:信息科学</i>, 2019, 49(11): 1428-1450.[<a href="publications/CS19.pdf">中国科学19</a>]</li>
+		<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Xianping Tao, Yu Huang and Jian Lu. An index structure supporting rule activation in pervasive applications, in <i>World Wide Web Journal</i>, 22(1): 1-37, 2019.[<a href="publications/WWWJ19.pdf">WWWJ19</a>]</li>
+		<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Huiyan Wang, Chang Xu, Xiaoxing Ma and Jian Lu. SynEva: Evaluating ML programs by mirror program synthesis, in <i>Proceedings of IEEE 18th International Conference on Software Quality, Reliability, and Security (QRS 2018)</i>, pages 171-182, 2018, Lisbon, Protugal.[<a href="publications/QRS18.pdf">QRS18</a>]</li>
+		<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Chang Xu, Ping Yu and Jian Lu. SIT: Sampling-based interactive testing for self-adaptive apps, in <i>Journal of Systems and Software</i>, 120: 70-88, 2016. [<a href="publications/JSS16.pdf">JSS16</a>]</li>
+		<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Xianping Tao and Jian Lu. Supporting groupware communication with topology-enhanced content-based network, in <i>Proceedings of 16th Asia-Pacific Network Operations and Management Symposium (APNOMS 2014)</i>, pages 1-6, 2014, Hsinchu, Taiwan, China.[<a href="publications/APNOMS14.pdf">APNOMS14</a>]</li>
 		<hr/>
 		
 		<p id="s"><font size="5" face="Georgia"><b>Students</b></font></p>
