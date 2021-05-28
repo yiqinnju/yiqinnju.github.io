@@ -28,14 +28,14 @@
 
 		<p id="n"><font size="5" face="Georgia"><b>News</b></font></p>
 		<ul>
-			<li><font size="4" face="Georgia"> <img src="new.gif"/> Congratulations on Yanxiang Tong's ESEC/FSE'20 paper "Timely and Accurate Detection of Model Deviation in Self-adaptive Software-intensive Systems"!</font></li>
-			<li><font size="4" face="Georgia"> Congratulations on Jinxin Fan's Internetware'21 paper "Overwhelming Uncertainty in Self-adaptation: An Empirical
+		<li><font size="4" face="Georgia"> <img src="new.gif"/> Congratulations on Yanxiang Tong's ESEC/FSE'20 paper "Timely and Accurate Detection of Model Deviation in Self-adaptive Software-intensive Systems"!</font></li>
+		<li><font size="4" face="Georgia"> Congratulations on Jinxin Fan's Internetware'21 paper "Overwhelming Uncertainty in Self-adaptation: An Empirical
 Study on PLA and CobRA"!</font></li>
-			<li><font size="4" face="Georgia"> Congratulations on Jinchi Chen's Internetware'20 paper "Simulated or Physical? An Empirical Study on Input Validation for Context-aware Systems in Different Environments"!</font></li>
-			<li><font size="4" face="Georgia"> "可成长软件理论方法和实现技术: 从范型到跨越" accepted by 中国科学-信息科学!</font></li>
-			<li><font size="4" face="Georgia"> Congratulations on Zhengchuan Liang's Internetware'19 paper "Generating Environmental Models for Testing Self-adaptive Systems"!</font></li>
-			<li><font size="4" face="Georgia"> "面向环境非确定性的CPS测试技术研究" accepted by 中国科学-信息科学!</font></li>
-			<li><font size="4" face="Georgia"> "CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software" accepted by IEEE Transactions on Reliability!</font></li>
+		<li><font size="4" face="Georgia"> Congratulations on Jinchi Chen's Internetware'20 paper "Simulated or Physical? An Empirical Study on Input Validation for Context-aware Systems in Different Environments"!</font></li>
+		<li><font size="4" face="Georgia"> "可成长软件理论方法和实现技术: 从范型到跨越" accepted by 中国科学-信息科学!</font></li>
+		<li><font size="4" face="Georgia"> Congratulations on Zhengchuan Liang's Internetware'19 paper "Generating Environmental Models for Testing Self-adaptive Systems"!</font></li>
+		<li><font size="4" face="Georgia"> "面向环境非确定性的CPS测试技术研究" accepted by 中国科学-信息科学!</font></li>
+		<li><font size="4" face="Georgia"> "CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software" accepted by IEEE Transactions on Reliability!</font></li>
 		</ul>
 		<hr/>
 
@@ -56,8 +56,9 @@ Study on PLA and CobRA"!</font></li>
 		<hr/>
 		
 		<p id="p"><font size="5" face="Georgia"><b>Publications</b></font></p>
-		<<li><font size="4" face="Georgia"></font>Jinxin Fan, Yanxiang Tong, <b>Yi Qin</b>, Xiaoxin Ma. Overwhelming Uncertainty in Self-adaptation: An Empirical
-Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on Internetware (Internetware 2020)</i>, 2021, virtual event.[<a href="publications/Internetware20(1).pdf"Internetware20(1)</a>]</li>
+		
+		<li><font size="4" face="Georgia"></font>Jinxin Fan, Yanxiang Tong, <b>Yi Qin</b>, Xiaoxin Ma. Overwhelming Uncertainty in Self-adaptation: An Empirical
+Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on Internetware (Internetware 2020)</i>, 2021, virtual event. [<a href="publications/Internetware20(1).pdf"Internetware20(1)</a>]</li>
 		<li><font size="4" face="Georgia"></font>Jinchi Chen, <b>Yi Qin</b>, Huiyan Wang, Chang Xu. Simulated or Physical? An Empirical Study on Input Validation for Context-aware Systems in Different Environments, in <i>Proceedings of the 12th Asia-Pacific Symposium on Internetware (Internetware 2020)</i>, 2021, virtual event.[<a href="publications/Internetware20(2).pdf"Internetware20(2)</a>]</li>
 		<li><font size="4" face="Georgia"></font>许畅, <b>秦逸</b>, 余萍, 曹春, 吕建. 可成长软件理论方法和实现技术: 从范型到跨越, <i>中国科学: 信息科学</i>，2020, 50(11):1595-1611.[<a href="publications/CS20.pdf">中国科学20</a>]</li>
 		<li><font size="4" face="Georgia"></font><b>Yi Qin</b>, Tao Xie, Chang Xu, Angello Astorga and Jian Lu. CoMID: Context-based Multi-invariant Detection for Monitoring Cyber-physical Software, in <i>IEEE Transactions on Reliability</i>, 69(1): 106-123, 2020. [<a href="publications/TR19.pdf">TR20</a>]</li>
