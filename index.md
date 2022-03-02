@@ -26,7 +26,7 @@
 			</tr>
 		</table>
 
-		<p id="n"><font size="5" face="Georgia" color="#FFFF00"><b>N<color="#0000FF">e<color="#FFFF00">w<color="#0000FF">s</b></font></p>
+		<p id="n"><font size="5" face="Georgia" color="#0000FF"><b>News</b></font></p>
 		<ul>
 		<li><font size="4" face="Georgia"> Congratulations on Jinchi Chen's paper "Simulation Might Change Your Results: A Comparison of Context-aware System Input Validation in Simulated and Physical Environments" accepted by Journal of Computer Science and Technology (JCST)!</font></li>
 		<li><font size="4" face="Georgia">  Congratulations on Yanxiang Tong's ESEC/FSE'21 paper "Timely and Accurate Detection of Model Deviation in Self-adaptive Software-intensive Systems"!</font></li>
@@ -37,7 +37,7 @@ Study on PLA and CobRA"!</font></li>
 		</ul>
 		<hr/>
 
-		<p id="b"><font size="5" face="Georgia"><b>Bio</b></font></p>
+		<p id="b"><font size="5" face="Georgia" color="#FFFF00"><b>Bio</b></font></p>
 		<p><font size="4" face="Georgia">I obtained my Ph.D. degree in computer science and technology from <a href="http://www.nju.edu.cn/">Nanjing University (NJU)</a> in 2018 (Ph.D. advisor: <a href="https://cs.nju.edu.cn/58/2a/c2639a153642/page.htm">Prof. J. Lv</a> and <a href="https://cs.nju.edu.cn/changxu/">Prof. C. Xu</a>), and B.S. degree in computer science and technology from <a href="http://www.nju.edu.cn/">Nanjing University</a> in 2011.</font></p>
 		<p><font size="4" face="Georgia">I am an assistant researcher with Nanjing University since Janaury 2019.</font></p>
 		<p><font size="4" face="Georgia">I received the following awards or honors (reversely chronological order):</font></p>
@@ -46,14 +46,14 @@ Study on PLA and CobRA"!</font></li>
 		</ul>
 		<hr/>
 
-		<p id="r"><font size="5" face="Georgia"><b>Research Interests</b></font></p>
+		<p id="r"><font size="5" face="Georgia" color="#0000FF"><b>Research Interests</b></font></p>
 		<p><font size="4" face="Georgia">My research mainly concern about building high-quality self-adaptive systems (robots, self-driving cars, Unmanned Aerial Vehicle, etc.). You may hear about the tragic accidents of <a href="https://reports.aviation-safety.net/2018/20181029-0_B38M_PK-LQP_PRELIMINARY.pdf">Lion Air Flight 610</a> and <a href="https://aviation-safety.net/database/record.php?id=20190310-0">Ethiopian Airlines Flight 302</a>. Software defect in the autopilot system of Boeing 737 MAX is the major root cause of these two accidents. Our work is to expose such software defects (techniques and tools for testing self-adaptive systems) and to help developers avoid such defects (methodology for developing self-adaptive systems). You are welcome to talk to me if you have common interests.</font></p>
 		<ul>
 		<li><font size="4" face="Georgia">Associated research groups: <a href="http://moon.nju.edu.cn/spar/">SPAR</a></font></li>
 		</ul>
 		<hr/>
 		
-		<p id="p"><font size="5" face="Georgia"><b>Publications</b></font></p>
+		<p id="p"><font size="5" face="Georgia" color="#FFFF00"><b>Publications</b></font></p>
 		<li><font size="3" face="Georgia">The electronic versions of some publications below are provided for personal use.</font></li>
 		<li><font size="3" face="Georgia">Copyright is owned by the respective publishers (for published versions) or persons (for submitted or crafted versions).</font></li>
 		<ol>
@@ -73,7 +73,7 @@ Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on 
 		</ol>
 		<hr/>
 		
-		<p id="s"><font size="5" face="Georgia"><b>Students</b></font></p>
+		<p id="s"><font size="5" face="Georgia" color="#0000FF"><b>Students</b></font></p>
 		<p><font size="4" face="Georgia">I'm looking for self-motivated students with commitment on software engineering and self-adaptive systems research.</font></p>
 		<p><font size="4" face="Georgia">My students:</font></p>
 		<ul>
@@ -90,7 +90,7 @@ Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on 
 
 		
 
-		<p id="t"><font size="5" face="Georgia"><b>Teaching Duties</b></font></p>
+		<p id="t"><font size="5" face="Georgia" color="#FFFF00"><b>Teaching Duties</b></font></p>
 		<ul>
 			<li><font size="4" face="Georgia">2022 (Spring) Lecturer: <a href="/course/MathLogic/MathLogic.html">数理逻辑</a>(for NJU department of computer science and technology)</font></li>
 		<ul>
@@ -104,7 +104,7 @@ Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on 
 		</ul>
 		<hr/>
 
-		<p id="h"><font size="5" face="Georgia"><b>Hobbies</b></font></p>
+		<p id="h"><font size="5" face="Georgia" color="#0000FF"><b>Hobbies</b></font></p>
 		<p><font size="4" face="Georgia">I love watching anime (US: /ˈænəˌmeɪ/, UK: /ˈænɪˌmeɪ/, the Japanese term for animation, which means all forms of animated media, check my MAL profile <a href="https://myanimelist.net/profile/TOKIKZAE">here</a>), playing video games and reading all-kinds of books. 
 		</font></p>
 		
@@ -115,7 +115,7 @@ Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on 
 		<hr/>
 
 		<p><font size="4" face="Georgia">[<a href="#x">Back to Top</a>]</font></p>
-		<p><font size="4" face="Georgia">The homepage was last updated on <font color="#ff0000")Feb 14, 2022</font>.</font></p>
+		<p><font size="4" face="Georgia">The homepage was last updated on <font color="#ff0000")Mar 2, 2022</font>.</font></p>
 
 		<!-- Start of StatCounter Code for Default Guide -->
 		<script type="text/javascript">
