@@ -26,7 +26,7 @@
 			</tr>
 		</table>
 
-		<p id="n"><font size="5" face="Georgia"><b>News</b></font></p>
+		<p id="n"><font size="5" face="Georgia" color="#FFFF00"><b>N<color="#0000FF">e<color="#FFFF00">w<color="#0000FF">s</b></font></p>
 		<ul>
 		<li><font size="4" face="Georgia"> Congratulations on Jinchi Chen's paper "Simulation Might Change Your Results: A Comparison of Context-aware System Input Validation in Simulated and Physical Environments" accepted by Journal of Computer Science and Technology (JCST)!</font></li>
 		<li><font size="4" face="Georgia">  Congratulations on Yanxiang Tong's ESEC/FSE'21 paper "Timely and Accurate Detection of Model Deviation in Self-adaptive Software-intensive Systems"!</font></li>
