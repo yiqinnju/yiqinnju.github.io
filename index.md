@@ -28,12 +28,15 @@
 
 		<p id="n"><font size="5" face="Georgia" color="#0000FF"><b>News</b></font></p>
 		<ul>
-		<li><font size="4" face="Georgia"> Congratulations on Jinchi Chen's paper "Simulation Might Change Your Results: A Comparison of Context-aware System Input Validation in Simulated and Physical Environments" accepted by Journal of Computer Science and Technology (JCST)!</font></li>
-		<li><font size="4" face="Georgia">  Congratulations on Yanxiang Tong's ESEC/FSE'21 paper "Timely and Accurate Detection of Model Deviation in Self-adaptive Software-intensive Systems"!</font></li>
-		<li><font size="4" face="Georgia"> Congratulations on Jinxin Fan's Internetware'21 paper "Overwhelming Uncertainty in Self-adaptation: An Empirical
+		<li><font size="4" face="Georgia"> Congratulations to Xinyi Mao for winning the third prize in ChinaSoft2022's prototype system competition!</font></li>
+		<li><font size="4" face="Georgia"> Congratulations on Yanxiang Tong's paper "EvaluatingtheFitnessofModelDeviationDetectionApproachesonSelfＧAdaptive
+SoftwareSystems" accepted by <i>Journal of Computer Research and Development (计算机研究与发展)</i>!</font></li>
+		<li><font size="4" face="Georgia"> Congratulations on Jinchi Chen's paper "Simulation Might Change Your Results: A Comparison of Context-aware System Input Validation in Simulated and Physical Environments" accepted by <i>Journal of Computer Science and Technology (JCST)</i>!</font></li>
+		<li><font size="4" face="Georgia">  Congratulations on Yanxiang Tong's <i>ESEC/FSE'21</i> paper "Timely and Accurate Detection of Model Deviation in Self-adaptive Software-intensive Systems"!</font></li>
+		<li><font size="4" face="Georgia"> Congratulations on Jinxin Fan's <i>Internetware'21</i> paper "Overwhelming Uncertainty in Self-adaptation: An Empirical
 Study on PLA and CobRA"!</font></li>
-		<li><font size="4" face="Georgia"> Congratulations on Jinchi Chen's Internetware'20 paper "Simulated or Physical? An Empirical Study on Input Validation for Context-aware Systems in Different Environments"!</font></li>
-		<li><font size="4" face="Georgia"> "可成长软件理论方法和实现技术: 从范型到跨越" accepted by 中国科学-信息科学!</font></li>
+		<li><font size="4" face="Georgia"> Congratulations on Jinchi Chen's <i>Internetware'20</i> paper "Simulated or Physical? An Empirical Study on Input Validation for Context-aware Systems in Different Environments"!</font></li>
+		<li><font size="4" face="Georgia"> "可成长软件理论方法和实现技术: 从范型到跨越" accepted by <i>中国科学-信息科学</i>!</font></li>
 		</ul>
 		<hr/>
 
@@ -115,7 +118,7 @@ Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on 
 		<hr/>
 
 		<p><font size="4" face="Georgia">[<a href="#x">Back to Top</a>]</font></p>
-		<p><font size="4" face="Georgia">The homepage was last updated on <font color="#ff0000")Mar 2, 2022</font>.</font></p>
+		<p><font size="4" face="Georgia">The homepage was last updated on <font color="#ff0000")Feb 09, 2023</font>.</font></p>
 
 		<!-- Start of StatCounter Code for Default Guide -->
 		<script type="text/javascript">
