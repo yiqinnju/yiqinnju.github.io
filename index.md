@@ -82,11 +82,15 @@ Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on 
 		<ul>
 			<li><font size="4" face="Georgia">Present :</font></li>
 			<ul>
-				<li><font size="4" face="Georgia">Yanxiang Tong (Ph. D candicate; with Prof. Xiaoxing Ma; Self-adaptive system Testing, working on control-based self-adaptive software-intensive systems (Control-based SASs))</font></li>
-				<li><font size="4" face="Georgia">Xinyi Mao (MSc; with Prof. Chang Xu; Self-adaptive system testing infrasturcutre, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
-				<li><font size="4" face="Georgia">Jinchi Chen (MSc; with Prof. Chang Xu; Self-adaptive system building, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
-				<li><font size="4" face="Georgia">Rong Yang (MSc; with Prof. Chang Xu; Self-adaptive system runtime platform, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
-				<li><font size="4" face="Georgia">Zhengchuan Liang (B.E; Self-adaptive system testing, working on Unmanned Aerial Vehicle)</font></li>
+			<li><font size="4" face="Georgia">Yanxiang Tong (Ph. D candicate; with Prof. Xiaoxing Ma; Self-adaptive system Testing, working on control-based self-adaptive software-intensive systems (Control-based SASs))</font></li>
+			<li><font size="4" face="Georgia">Xinyi Mao (MSc; with Prof. Chang Xu; Self-adaptive system testing infrasturcutre, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
+			<li><font size="4" face="Georgia">Jinchi Chen (MSc; with Prof. Chang Xu; Self-adaptive system building, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
+			<li><font size="4" face="Georgia">Rong Yang (MSc; with Prof. Chang Xu; Self-adaptive system runtime platform</font></li>
+			<li><font size="4" face="Georgia">Mingxiao Wang (MSc; with Prof. Chang Xu; Self-adaptive system runtime platform</font></li>
+			</ul>
+			<li><font size="4" face="Georgia">Past :</font></li>
+			<ul>
+			<li><font size="4" face="Georgia">Zhengchuan Liang (B.E; Self-adaptive system testing, working on Unmanned Aerial Vehicle)</font></li>
 			</ul>
 		</ul>
 		<hr/>
@@ -95,9 +99,9 @@ Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on 
 
 		<p id="t"><font size="5" face="Georgia" color="#FFFF00"><b>Teaching Duties</b></font></p>
 		<ul>
-			<li><font size="4" face="Georgia">2022 (Spring) Lecturer: <a href="/course/MathLogic/MathLogic.html">数理逻辑</a>(for NJU department of computer science and technology)</font></li>
+			<li><font size="4" face="Georgia">2023 (Spring) Lecturer: <a href="/course/MathLogic/MathLogic.html">数理逻辑</a>(for NJU department of computer science and technology)</font></li>
 		<ul>
-			<li><font size="4" face="Georgia">Also in 2021 (Spring) and 2020 (Spring)</font></li>
+			<li><font size="4" face="Georgia">Also in 2022(Spring), 2021 (Spring) and 2020 (Spring)</font></li>
 		</ul>
 			<li><font size="4" face="Georgia">2021 (Fall) Lecturer: <a href="https://yiqinnju.github.io/disMath.html">离散数学</a>(for NJU continouing education school)</font></li>
 		<ul>
