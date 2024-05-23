@@ -28,9 +28,10 @@
 
 		<p id="n"><font size="5" face="Georgia"><b>News</b></font></p>
 		<ul>
+  		<li><font size="4" face="Georgia"> "Active Monitoring Mechanism for Control-based Self-Adaptive Systems" accepted by <i>FSE'24</i>!</font></li>
 		<li><font size="4" face="Georgia"> Congratulations to Xinyi Mao for winning the third prize in ChinaSoft2022's prototype system competition!</font></li>
-		<li><font size="4" face="Georgia"> Congratulations on Yanxiang Tong's paper "EvaluatingtheFitnessofModelDeviationDetectionApproachesonSelfＧAdaptive
-SoftwareSystems" accepted by <i>Journal of Computer Research and Development (计算机研究与发展)</i>!</font></li>
+		<li><font size="4" face="Georgia"> Congratulations on Yanxiang Tong's paper "Evaluating the Fitness of Model Deviation Detection Approaches on Self-Adaptive
+Software Systems" accepted by <i>Journal of Computer Research and Development (计算机研究与发展)</i>!</font></li>
 		<li><font size="4" face="Georgia"> Congratulations on Jinchi Chen's paper "Simulation Might Change Your Results: A Comparison of Context-aware System Input Validation in Simulated and Physical Environments" accepted by <i>Journal of Computer Science and Technology (JCST)</i>!</font></li>
 		<li><font size="4" face="Georgia">  Congratulations on Yanxiang Tong's <i>ESEC/FSE'21</i> paper "Timely and Accurate Detection of Model Deviation in Self-adaptive Software-intensive Systems"!</font></li>
 		<li><font size="4" face="Georgia"> Congratulations on Jinxin Fan's <i>Internetware'21</i> paper "Overwhelming Uncertainty in Self-adaptation: An Empirical
@@ -60,7 +61,10 @@ Study on PLA and CobRA"!</font></li>
 		<li><font size="3" face="Georgia">The electronic versions of some publications below are provided for personal use.</font></li>
 		<li><font size="3" face="Georgia">Copyright is owned by the respective publishers (for published versions) or persons (for submitted or crafted versions).</font></li>
 		<ol>
-		<li><font size="4" face="Georgia">Jinchi Chen, <b>Yi Qin</b>, Huiyan Wang, and Chang Xu. Simulation Might Change Your Results: A Comparison of Context-aware System Input Validation in Simulated and Physical Environments. <i>Journal of Computer Science and Technology (JCST)</i>, 2022, forthcoming.
+		<li><font size="4" face="Georgia"><b>Yi Qin</b>, Yanxiang Tong, Yifei Xu, Chun Cao, and Xiaoxing Ma. Active Monitoring Mechanism for Control-Based Self-Adaptive Systems. <i>In FSE 2024</i>, forthcoming, 2024.
+  		<li><font size="4" face="Georgia">Yanxiang Tong, <b>Yi Qin</b>, Xiaoxing Ma. Evaluating the Fitness of Model Deviation Detection Approaches on Self-Adaptive
+Software Systems. <i>Journal of Computer Research and Development (计算机研究与发展)</i>, 59(9): 1929-1946. 2022. [<a href="publications/JCRD22.pdf">JCRD22</a>]
+		<li><font size="4" face="Georgia">Jinchi Chen, <b>Yi Qin</b>, Huiyan Wang, and Chang Xu. Simulation Might Change Your Results: A Comparison of Context-aware System Input Validation in Simulated and Physical Environments. <i>Journal of Computer Science and Technology (JCST)</i>, 37(1): 1-23. 2022. [<a href="publications/JCST22.pdf">JCST22</a>]
 		<li><font size="4" face="Georgia">Yanxiang Tong, <b>Yi Qin</b>, Yanyan Jiang, Chang Xu, Chun Cao, and Xiaoxing Ma. Timely and Accurate Detection of Model Deviation in Self-adaptive Software-intensive Systems. <i>In Proceedings of the 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021)</i>, pp. 168-180, Athens, Greece, Aug 2021. [<a href="publications/FSE21.pdf">ESEC/FSE21</a>]
 		<li><font size="4" face="Georgia">Jinxin Fan, Yanxiang Tong, <b>Yi Qin</b>, Xiaoxin Ma. Overwhelming Uncertainty in Self-adaptation: An Empirical
 Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on Internetware (Internetware 2020)</i>, 2021, virtual event. [<a href="publications/Internetware20(1).pdf">Internetware20(1)</a>]
@@ -82,14 +86,17 @@ Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on 
 		<ul>
 			<li><font size="4" face="Georgia">Present :</font></li>
 			<ul>
-			<li><font size="4" face="Georgia">Yanxiang Tong (Ph. D candicate; with Prof. Xiaoxing Ma; Self-adaptive system Testing, working on control-based self-adaptive software-intensive systems (Control-based SASs))</font></li>
-			<li><font size="4" face="Georgia">Xinyi Mao (MSc; with Prof. Chang Xu; Self-adaptive system testing infrasturcutre, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
-			<li><font size="4" face="Georgia">Jinchi Chen (MSc; with Prof. Chang Xu; Self-adaptive system building, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
-			<li><font size="4" face="Georgia">Rong Yang (MSc; with Prof. Chang Xu; Self-adaptive system runtime platform</font></li>
-			<li><font size="4" face="Georgia">Mingxiao Wang (MSc; with Prof. Chang Xu; Self-adaptive system runtime platform</font></li>
+   			<li><font size="4" face="Georgia">Chenghuan Jiang (B.E.; with Prof. Chang Xu; Uncertianty analysis for self-adpative systems</font></li>
+			<li><font size="4" face="Georgia">Yifei Xu (MSc; with Prof. Chang Xu; Runtime monitoring for self-adaptive systems</font></li>
+			<li><font size="4" face="Georgia">Zhaoqi Tong (MSc; with Prof. Xiaoxing Ma; Adaptation support for micro-service systems</font></li>
+			<li><font size="4" face="Georgia">Mingxiao Wang (MSc; with Prof. Chang Xu; Self-adaptive system runtime platform, working on Dji RobotMaster</font></li>
+   			<li><font size="4" face="Georgia">Rong Yang (MSc; with Prof. Chang Xu; Self-adaptive system runtime platform, working on LEGO  Power Up kits</font></li>
 			</ul>
 			<li><font size="4" face="Georgia">Past :</font></li>
 			<ul>
+   			<li><font size="4" face="Georgia">Yanxiang Tong (Ph. D; with Prof. Xiaoxing Ma; Self-adaptive system Testing, working on control-based self-adaptive software-intensive systems (Control-based SASs))</font></li>
+			<li><font size="4" face="Georgia">Xinyi Mao (MSc; with Prof. Chang Xu; Self-adaptive system testing infrasturcutre, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
+			<li><font size="4" face="Georgia">Jinchi Chen (MSc; with Prof. Chang Xu; Self-adaptive system building, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
 			<li><font size="4" face="Georgia">Zhengchuan Liang (B.E; Self-adaptive system testing, working on Unmanned Aerial Vehicle)</font></li>
 			</ul>
 		</ul>
@@ -99,9 +106,9 @@ Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on 
 
 		<p id="t"><font size="5" face="Georgia"><b>Teaching Duties</b></font></p>
 		<ul>
-			<li><font size="4" face="Georgia">2023 (Spring) Lecturer: <a href="/course/MathLogic/MathLogic.html">数理逻辑</a>(for NJU department of computer science and technology)</font></li>
+			<li><font size="4" face="Georgia">2024 (Spring) Lecturer: <a href="/course/MathLogic/MathLogic.html">数理逻辑</a>(for NJU department of computer science and technology)</font></li>
 		<ul>
-			<li><font size="4" face="Georgia">Also in 2022(Spring), 2021 (Spring) and 2020 (Spring)</font></li>
+			<li><font size="4" face="Georgia">Also in 2023(Spring), 2022(Spring), 2021 (Spring) and 2020 (Spring)</font></li>
 		</ul>
 			<li><font size="4" face="Georgia">2021 (Fall) Lecturer: <a href="https://yiqinnju.github.io/disMath.html">离散数学</a>(for NJU continouing education school)</font></li>
 		<ul>
