@@ -95,8 +95,8 @@ Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on 
 			<ul>
    			<li><font size="4" face="Georgia">Rong Yang (MSc; with Prof. Chang Xu; Self-adaptive system runtime platform, working on LEGO  Power Up kits</font></li>
    			<li><font size="4" face="Georgia">Yanxiang Tong (Ph. D; with Prof. Xiaoxing Ma; Self-adaptive system Testing, working on control-based self-adaptive software-intensive systems (Control-based SASs))</font></li>
-			<li><font size="4" face="Georgia">Xinyi Mao (MSc; with Prof. Chang Xu; Self-adaptive system testing infrasturcutre, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
-			<li><font size="4" face="Georgia">Jinchi Chen (MSc; with Prof. Chang Xu; Self-adaptive system building, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
+			<li><font size="4" face="Georgia">Xinyi Mao (MSc; with Prof. Chang Xu; Self-adaptive system testing infrasturcutre, working on Dji RobotMaste)</font></li>
+			<li><font size="4" face="Georgia">Jinchi Chen (MSc; with Prof. Chang Xu; Self-adaptive system building, working on Dji RobotMaster)</font></li>
 			<li><font size="4" face="Georgia">Zhengchuan Liang (B.E; Self-adaptive system testing, working on Unmanned Aerial Vehicle)</font></li>
 			</ul>
 		</ul>
@@ -106,9 +106,9 @@ Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on 
 
 		<p id="t"><font size="5" face="Georgia"><b>Teaching Duties</b></font></p>
 		<ul>
-			<li><font size="4" face="Georgia">2024 (Spring) Lecturer: <a href="/course/MathLogic/MathLogic.html">数理逻辑</a>(for NJU department of computer science and technology)</font></li>
+			<li><font size="4" face="Georgia">2025 (Spring) Lecturer: <a href="/course/MathLogic/MathLogic.html">数理逻辑</a>(for NJU department of computer science and technology)</font></li>
 		<ul>
-			<li><font size="4" face="Georgia">Also in 2023(Spring), 2022(Spring), 2021 (Spring) and 2020 (Spring)</font></li>
+			<li><font size="4" face="Georgia">Also in 2024(Spring), 2023(Spring), 2022(Spring), 2021 (Spring) and 2020 (Spring)</font></li>
 		</ul>
 			<li><font size="4" face="Georgia">2021 (Fall) Lecturer: <a href="https://yiqinnju.github.io/disMath.html">离散数学</a>(for NJU continouing education school)</font></li>
 		<ul>
@@ -127,27 +127,6 @@ Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on 
 		<p><font size="4" face="Georgia">Anime could also inspire our research in self-adaptive systems.  Can we avoid our robots falling down like <a href="sources/eva.mp4">this</a> ？And can we make smart robots move like <a href="sources/tachikoma.mp4">this</a>, Unmanned Aerial(or "Space" ) Vehicles fly like <a href="sources/funnel.mp4">this</a>, or deadly missiles fire like <a href="sources/circus.mp4">this</a>?</font></p> 
 
 		<hr/>
-
-		<p><font size="4" face="Georgia">[<a href="#x">Back to Top</a>]</font></p>
-		<p><font size="4" face="Georgia">The homepage was last updated on <font color="#ff0000")Feb 09, 2023</font>.</font></p>
-
-		<!-- Start of StatCounter Code for Default Guide -->
-		<script type="text/javascript">
-var sc_project=6371420; 
-var sc_invisible=1; 
-var sc_security="2921ddaf"; 
-</script>
-		<script type="text/javascript"
-src="http://www.statcounter.com/counter/counter.js"></script>
-
-		<noscript><div class="statcounter"><a title="tumblr
-statistics" href="http://statcounter.com/tumblr/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/6371420/0/2921ddaf/1/"
-alt="tumblr statistics"></a></div></noscript>
-
-		<!-- End of StatCounter Code for Default Guide -->
-
-	</body>
+</body>
 
 </html>
