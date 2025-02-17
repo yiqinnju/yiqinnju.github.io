@@ -90,10 +90,10 @@ Study on PLA and CobRA, in <i>Proceedings of the 12th Asia-Pacific Symposium on 
 			<li><font size="4" face="Georgia">Yifei Xu (MSc; with Prof. Chang Xu; Runtime monitoring for self-adaptive systems</font></li>
 			<li><font size="4" face="Georgia">Zhaoqi Tong (MSc; with Prof. Xiaoxing Ma; Adaptation support for micro-service systems</font></li>
 			<li><font size="4" face="Georgia">Mingxiao Wang (MSc; with Prof. Chang Xu; Self-adaptive system runtime platform, working on Dji RobotMaster</font></li>
-   			<li><font size="4" face="Georgia">Rong Yang (MSc; with Prof. Chang Xu; Self-adaptive system runtime platform, working on LEGO  Power Up kits</font></li>
 			</ul>
 			<li><font size="4" face="Georgia">Past :</font></li>
 			<ul>
+   			<li><font size="4" face="Georgia">Rong Yang (MSc; with Prof. Chang Xu; Self-adaptive system runtime platform, working on LEGO  Power Up kits</font></li>
    			<li><font size="4" face="Georgia">Yanxiang Tong (Ph. D; with Prof. Xiaoxing Ma; Self-adaptive system Testing, working on control-based self-adaptive software-intensive systems (Control-based SASs))</font></li>
 			<li><font size="4" face="Georgia">Xinyi Mao (MSc; with Prof. Chang Xu; Self-adaptive system testing infrasturcutre, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
 			<li><font size="4" face="Georgia">Jinchi Chen (MSc; with Prof. Chang Xu; Self-adaptive system building, working on <a href="https://www.dji.com/cn/robomaster-s1?site=brandsite&from=nav">Dji RobotMaster</a>)</font></li>
