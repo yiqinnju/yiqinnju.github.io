@@ -61,7 +61,9 @@ Study on PLA and CobRA"!</font></li>
 		<li><font size="3" face="Georgia">The electronic versions of some publications below are provided for personal use.</font></li>
 		<li><font size="3" face="Georgia">Copyright is owned by the respective publishers (for published versions) or persons (for submitted or crafted versions).</font></li>
 		<ol>
-		<li><font size="4" face="Georgia"><b>Yi Qin</b>, Yanxiang Tong, Yifei Xu, Chun Cao, and Xiaoxing Ma. Active Monitoring Mechanism for Control-Based Self-Adaptive Systems. <i>In FSE 2024</i>, forthcoming, 2024.
+  		<li><font size="4" face="Georgia">Shuhui Zhang, Rong Yang, Lingyu Zhang, Han Li, Mingxiao Wang, Mingchen Gao, Haoming Hu, Huiyan Wang, <b>Yi Qing</b>, Chang Xu. Consistency-driven Programming Framework and Runtime Support for Reliable Environmental Sensing and Dynamic Adaptation (SEPAL：基于一致性驱动的面向可靠感知与动态适应的应用编程框架和运行支撑). <i>In CHINASOFT 2024 原型系统竞赛track</i>, 获得中国软件大会2024原型系统竞赛一等奖. 
+    		<li><font size="4" face="Georgia"><b>Yi Qin</b>, Yanxiang Tong, Yifei Xu, Chun Cao, and Xiaoxing Ma. Active Monitoring Mechanism for Control-Based Self-Adaptive Systems. <i>In FSE 2024</i>, pp. 1841-1864, 2024. [<a href="publications/FSE24.pdf">FSE24</a>]
+		<li><font size="4" face="Georgia"><b>Yi Qin</b>, Yanxiang Tong, Yifei Xu, Chun Cao, and Xiaoxing Ma. Active Monitoring Mechanism for Control-Based Self-Adaptive Systems. <i>In FSE 2024</i>, pp. 1841-1864, 2024. [<a href="publications/FSE24.pdf">FSE24</a>]
   		<li><font size="4" face="Georgia">Yanxiang Tong, <b>Yi Qin</b>, Xiaoxing Ma. Evaluating the Fitness of Model Deviation Detection Approaches on Self-Adaptive
 Software Systems. <i>Journal of Computer Research and Development (计算机研究与发展)</i>, 59(9): 1929-1946. 2022. [<a href="publications/JCRD22.pdf">JCRD22</a>]
 		<li><font size="4" face="Georgia">Jinchi Chen, <b>Yi Qin</b>, Huiyan Wang, and Chang Xu. Simulation Might Change Your Results: A Comparison of Context-aware System Input Validation in Simulated and Physical Environments. <i>Journal of Computer Science and Technology (JCST)</i>, 37(1): 1-23. 2022. [<a href="publications/JCST22.pdf">JCST22</a>]
