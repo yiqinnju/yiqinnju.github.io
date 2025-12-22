@@ -157,6 +157,95 @@ numbers.sort()
 for i in range(n):
     print(names[i], numbers[i])
 
+
+Question E
+
+# 定义全局变量，方便在函数内部访问
+N = 0
+K = 0
+heights = []       # 存放每个人的身高
+visited = []       # 记录这人是否已经坐下 (True/False)
+total_count = 0    # 记录符合条件的方案数
+
+def dfs(people_seated, last_person_index):
+    
+    # people_seated: 当前圆桌上已经坐下的人数
+    # last_person_index: 上一个坐下的人在 heights 数组中的下标
+    
+    global total_count
+
+    # 1. 递归结束条件：
+    # 如果坐下的人数等于 N，说明所有人都安排好了
+    if people_seated == N:
+        # 别忘了是圆桌：还要检查【最后一个人】和【第一个人】的身高差
+        # 第一个人我们固定是 heights[0]
+        diff = abs(heights[last_person_index] - heights[0])
+        
+        if diff <= K:
+            total_count = total_count + 1
+        return
+
+    # 2. 尝试安排下一个人
+    # 我们遍历所有人，看看谁还没坐下
+    # 注意：i 从 1 开始，因为我们默认第 0 个人已经固定坐在第一个位置了
+    for i in range(1, N):
+        
+        # 如果这个人(i)还没坐下
+        if visited[i] == False:
+            
+            # 计算他和上一个人(last_person_index)的身高差
+            diff = abs(heights[i] - heights[last_person_index])
+            
+            # 如果身高差符合要求，就让他坐下
+            if diff <= K:
+                visited[i] = True  # 标记为已坐下
+                
+                # 继续递归，安排下一个人
+                dfs(people_seated + 1, i)
+                
+                # 回溯（关键步骤）：
+                # 递归回来后，要把这个人重置为“未坐下”，以便让他去尝试别的位置
+                visited[i] = False
+
+# 主程序入口
+if __name__ == "__main__":
+    try:
+        # --- 读取输入 ---
+        # 读取第一行，获取 N 和 K
+        line1 = input().split()
+        N = int(line1[0])
+        K = int(line1[1])
+
+        # 读取后续的身高
+        # 题目说每行输入一个身高，我们用循环读取 N 次
+        # 注意：有时候题目输入会有空行，用循环读取比较稳妥
+        count_read = 0
+        while count_read < N:
+            line = input().split()
+            # 可能一行有多个数字，也可能一个
+            for x in line:
+                heights.append(int(x))
+                count_read = count_read + 1
+
+        # --- 初始化 ---
+        # 创建一个长度为 N 的列表，全部填 False
+        visited = [False] * N
+
+        # --- 开始算法 ---
+        # 策略：为了避免圆桌旋转造成的重复（比如 A-B-C 和 B-C-A 算同一种），
+        # 我们强制把第 1 个人（索引0）固定在圆桌的起点。
+        visited[0] = True
+
+        # 开始递归：
+        # 参数1：当前已经坐了 1 个人
+        # 参数2：当前最后坐下的人是索引 0
+        dfs(1, 0)
+
+        # --- 输出结果 ---
+        print(total_count)
+        
+    except Exception:
+        pass
 QuestionF
 """
 """
