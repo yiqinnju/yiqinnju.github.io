@@ -1,0 +1,39 @@
+def selection_sort_visualized(arr):
+    nums = arr.copy()
+    n = len(nums)
+    
+    print(f"【初始列表】: {nums}")
+    print("=" * 60)
+    
+    # 外层循环：i 代表当前要填坑的位置（从第 0 个位置到倒数第 2 个位置）
+    for i in range(n - 1):
+        min_idx = i  # 假设当前位置 i 的元素就是最小值（擂主）
+        print(f"\n▶ 第 {i + 1} 轮寻找最小值（准备放到索引 {i} 的位置，初定擂主为 [{nums[min_idx]}]）:")
+        
+        # 内层循环：从 i 后面的所有元素中找有没有比擂主更小的
+        for j in range(i + 1, n):
+            print(f"  扫描 [{nums[j]}]: 与当前最小值 [{nums[min_idx]}] 比较", end=" -> ")
+            if nums[j] < nums[min_idx]:
+                min_idx = j  # 更新最小值的索引（换新擂主，但先不交换数据！）
+                print(f"发现更小值！更新最小值记录为 [{nums[min_idx]}] (位于索引 {min_idx})")
+            else:
+                print(f"未小于 [{nums[min_idx]}]，继续扫描")
+                
+        # 一轮扫描结束后，把找到的真正最小值交换到位置 i
+        if min_idx != i:
+            print(f"▷ 本轮找完，最小值为 [{nums[min_idx]}]，将它与位置 {i} 的 [{nums[i]}] 交换！")
+            nums[i], nums[min_idx] = nums[min_idx], nums[i]
+        else:
+            print(f"▷ 本轮找完，[{nums[i]}] 本身就是最小值，原地不动！")
+            
+        print(f"  当前列表状态: {nums} （前 {i + 1} 个元素已锁定）")
+        
+    print("=" * 60)
+    print(f"【最终排序结果】: {nums}")
+    return nums
+
+
+# 测试教学案例
+if __name__ == "__main__":
+    sample_data = [5, 3, 8, 4, 2]
+    selection_sort_visualized(sample_data)

@@ -1,0 +1,42 @@
+def bubble_sort_visualized(arr):
+    # 复制一份列表，避免直接修改原数据
+    nums = arr.copy()
+    n = len(nums)
+    
+    print(f"【初始列表】: {nums}")
+    print("=" * 55)
+    
+    # 外层循环：控制总共需要多少轮（n个元素最多需要 n-1 轮）
+    for i in range(n - 1):
+        print(f"\n▶ 第 {i + 1} 轮冒泡开始（当前已锁定末尾 {i} 个最大值）:")
+        swapped = False  # 优化标志位：记录本轮是否发生过交换
+        
+        # 内层循环：负责相邻元素的比较（末尾已经排好序的 i 个元素无需再比）
+        for j in range(n - 1 - i):
+            left, right = nums[j], nums[j + 1]
+            print(f"  步骤 {j + 1}: 比较相邻的 [{left}] 和 [{right}]", end=" -> ")
+            
+            if left > right:
+                # 发现左边大于右边，利用 Python 特性直接交换
+                nums[j], nums[j + 1] = nums[j + 1], nums[j]
+                swapped = True
+                print(f"需要交换！当前状态: {nums}")
+            else:
+                print(f"顺序正确，保持不变: {nums}")
+                
+        print(f"▷ 第 {i + 1} 轮结束，数字 [{nums[n - 1 - i]}] 已就位 -> {nums}")
+        
+        # 核心优化：如果一整轮下来没有任何元素交换，说明已经完全有序，提前下班
+        if not swapped:
+            print("💡 检测到本轮无任何交换，列表已完全有序，算法提前终止！")
+            break
+            
+    print("=" * 55)
+    print(f"【最终排序结果】: {nums}")
+    return nums
+ 
+
+# 测试教学案例
+if __name__ == "__main__":
+    sample_data = [6, 5, 3, 2, 1]
+    bubble_sort_visualized(sample_data)

@@ -1,0 +1,104 @@
+# ==================== 1. 快速排序（Quick Sort） ====================
+
+def quick_sort_visualized(arr):
+    nums = arr.copy()
+    print(f"【快速排序 - 初始列表】: {nums}")
+    print("=" * 65)
+
+    def _quick_sort(sub_arr, depth=0):
+        indent = "  " * depth
+        if len(sub_arr) <= 1:
+            if sub_arr:
+                print(f"{indent}▷ 子列表 {sub_arr} 长度为 1，无需拆分，直接返回")
+            return sub_arr
+
+        # 选择第一个元素作为基准值（Pivot）
+        pivot = sub_arr[0]
+        left = []
+        right = []
+
+        print(f"\n{indent}▶ [递归层级 {depth + 1}] 处理子列表 {sub_arr}，选定基准值 (Pivot): [{pivot}]")
+
+        for x in sub_arr[1:]:
+            if x <= pivot:
+                left.append(x)
+                print(f"{indent}  比较 [{x}] 与基准 [{pivot}] -> 小于等于基准，放入左分区: {left}")
+            else:
+                right.append(x)
+                print(f"{indent}  比较 [{x}] 与基准 [{pivot}] -> 大于基准，放入右分区: {right}")
+
+        print(f"{indent}  分区完毕: 左分区 {left} + 基准 [{pivot}] + 右分区 {right}")
+
+        sorted_left = _quick_sort(left, depth + 1)
+        sorted_right = _quick_sort(right, depth + 1)
+
+        res = sorted_left + [pivot] + sorted_right
+        print(f"{indent}◀ [层级 {depth + 1} 合并] {sorted_left} + [{pivot}] + {sorted_right} -> 得到: {res}")
+        return res
+
+    result = _quick_sort(nums)
+    print("=" * 65)
+    print(f"【快速排序 - 最终结果】: {result}\n")
+    return result
+
+
+# ==================== 2. 归并排序（Merge Sort） ====================
+
+def merge_sort_visualized(arr):
+    nums = arr.copy()
+    print(f"【归并排序 - 初始列表】: {nums}")
+    print("=" * 65)
+
+    def _merge_sort(sub_arr, depth=0):
+        indent = "  " * depth
+        if len(sub_arr) <= 1:
+            return sub_arr
+
+        mid = len(sub_arr) // 2
+        left_half = sub_arr[:mid]
+        right_half = sub_arr[mid:]
+
+        print(f"{indent}▶ [拆分 - 层级 {depth + 1}] 将 {sub_arr} 拆分为 左: {left_half} 和 右: {right_half}")
+
+        sorted_left = _merge_sort(left_half, depth + 1)
+        sorted_right = _merge_sort(right_half, depth + 1)
+
+        # 合并两个有序子列表
+        print(f"\n{indent}▷ [合并 - 层级 {depth + 1}] 准备合并有序左列表 {sorted_left} 和 有序右列表 {sorted_right}:")
+        merged = []
+        i = j = 0
+
+        while i < len(sorted_left) and j < len(sorted_right):
+            print(f"{indent}  比较左端 [{sorted_left[i]}] 和右端 [{sorted_right[j]}]", end=" -> ")
+            if sorted_left[i] <= sorted_right[j]:
+                merged.append(sorted_left[i])
+                print(f"取较小值 [{sorted_left[i]}]，当前合并区: {merged}")
+                i += 1
+            else:
+                merged.append(sorted_right[j])
+                print(f"取较小值 [{sorted_right[j]}]，当前合并区: {merged}")
+                j += 1
+
+        if i < len(sorted_left):
+            rem = sorted_left[i:]
+            merged.extend(rem)
+            print(f"{indent}  右列表已空，直接追加左列表剩余元素 {rem} -> {merged}")
+        if j < len(sorted_right):
+            rem = sorted_right[j:]
+            merged.extend(rem)
+            print(f"{indent}  左列表已空，直接追加右列表剩余元素 {rem} -> {merged}")
+
+        print(f"{indent}◀ [层级 {depth + 1} 合并完成] 得到有序子列表: {merged}")
+        return merged
+
+    result = _merge_sort(nums)
+    print("=" * 65)
+    print(f"【归并排序 - 最终结果】: {result}")
+    return result
+
+
+# ==================== 测试教学案例 ====================
+if __name__ == "__main__":
+    sample_data = [5, 3, 8, 4, 2]
+    quick_sort_visualized(sample_data)
+    merge_sort_visualized(sample_data)

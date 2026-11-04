@@ -1,0 +1,38 @@
+def insertion_sort_visualized(arr):
+    nums = arr.copy()
+    n = len(nums)
+    
+    print(f"【初始列表】: {nums} （默认第 1 张牌 [{nums[0]}] 已在手中排好）")
+    print("=" * 60)
+    
+    # 外层循环：从第 2 张牌（索引 1）开始摸牌
+    for i in range(1, n):
+        key = nums[i]  # 当前摸到的新牌
+        j = i - 1      # 手牌区最右边那张牌的索引
+        
+        print(f"\n▶ 第 {i} 轮摸牌：摸到新牌 [{key}]，当前已排好的手牌为 {nums[:i]}")
+        
+        # 内层循环：只要手里的牌比新牌大，且还没比到头，就把手牌往右挪一格
+        while j >= 0:
+            print(f"  拿新牌 [{key}] 与手牌 [{nums[j]}] (位置 {j}) 比较", end=" -> ")
+            if nums[j] > key:
+                nums[j + 1] = nums[j]  # 手牌往右平移一格
+                print(f"[{nums[j]}] 较大，往右腾位置 -> 列表暂变为 {nums}")
+                j -= 1  # 准备继续和前一张手牌比
+            else:
+                print(f"[{nums[j]}] 不大于新牌 [{key}]，停止往前比较！")
+                break
+                
+        # 循环结束时，j + 1 就是腾出来的空位，把新牌插进去
+        nums[j + 1] = key
+        print(f"▷ 将新牌 [{key}] 插入到索引 {j + 1}，当前手牌区扩充为: {nums[:i+1]} | 整体: {nums}")
+        
+    print("=" * 60)
+    print(f"【最终排序结果】: {nums}")
+    return nums
+
+
+# 测试教学案例
+if __name__ == "__main__":
+    sample_data = [5, 3, 8, 4, 2]
+    insertion_sort_visualized(sample_data)
